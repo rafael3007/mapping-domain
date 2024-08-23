@@ -1,4 +1,4 @@
-import { UniqueEntityID } from "../core/unique-entity-id";
+import { UniqueEntityID } from "../../core/unique-entity-id";
 
 export interface UserProps {
   id: UniqueEntityID;
